@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/student/Projekt2/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-8  -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/usr/local/lib/wx/include/gtk3-unicode-3.1 -I/usr/local/include/wx-3.1   -pthread   -o CMakeFiles/main2.dir/main2.cpp.o -c /home/student/Projekt2/src/main2.cpp",
+  "file": "/home/student/Projekt2/src/main2.cpp"
+},
+{
+  "directory": "/home/student/Projekt2/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-8  -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/usr/local/lib/wx/include/gtk3-unicode-3.1 -I/usr/local/include/wx-3.1   -pthread   -o CMakeFiles/main2.dir/Frame.cpp.o -c /home/student/Projekt2/src/Frame.cpp",
+  "file": "/home/student/Projekt2/src/Frame.cpp"
+}
+]

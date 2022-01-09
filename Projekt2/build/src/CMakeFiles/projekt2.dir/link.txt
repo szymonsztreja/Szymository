@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-8     CMakeFiles/projekt2.dir/main2.cpp.o  -o projekt2 

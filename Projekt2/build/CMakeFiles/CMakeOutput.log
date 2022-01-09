@@ -1,0 +1,59 @@
+The system is: Linux - sh: 0: getcwd() failed: No such file or directory
+4.15.0-54-generic - sh: 0: getcwd() failed: No such file or directory
+x86_64
+Determining if the C compiler works passed with the following output:
+Change Dir: /home/student/Projekt2/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b2131/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b2131.dir/build.make CMakeFiles/cmTC_b2131.dir/build
+make[1]: Entering directory '/home/student/Projekt2/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b2131.dir/testCCompiler.c.o
+/usr/bin/x86_64-linux-gnu-gcc-8    -o CMakeFiles/cmTC_b2131.dir/testCCompiler.c.o   -c /home/student/Projekt2/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_b2131
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b2131.dir/link.txt --verbose=1
+/usr/bin/x86_64-linux-gnu-gcc-8      CMakeFiles/cmTC_b2131.dir/testCCompiler.c.o  -o cmTC_b2131 
+make[1]: Leaving directory '/home/student/Projekt2/build/CMakeFiles/CMakeTmp'
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/student/Projekt2/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d67c9/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d67c9.dir/build.make CMakeFiles/cmTC_d67c9.dir/build
+make[1]: Entering directory '/home/student/Projekt2/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d67c9.dir/CMakeCCompilerABI.c.o
+/usr/bin/x86_64-linux-gnu-gcc-8    -o CMakeFiles/cmTC_d67c9.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_d67c9
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d67c9.dir/link.txt --verbose=1
+/usr/bin/x86_64-linux-gnu-gcc-8      CMakeFiles/cmTC_d67c9.dir/CMakeCCompilerABI.c.o  -o cmTC_d67c9 
+make[1]: Leaving directory '/home/student/Projekt2/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /home/student/Projekt2/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6f6fd/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6f6fd.dir/build.make CMakeFiles/cmTC_6f6fd.dir/build
+make[1]: Entering directory '/home/student/Projekt2/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_6f6fd.dir/testCXXCompiler.cxx.o
+/usr/bin/x86_64-linux-gnu-g++-8     -o CMakeFiles/cmTC_6f6fd.dir/testCXXCompiler.cxx.o -c /home/student/Projekt2/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_6f6fd
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6f6fd.dir/link.txt --verbose=1
+/usr/bin/x86_64-linux-gnu-g++-8       CMakeFiles/cmTC_6f6fd.dir/testCXXCompiler.cxx.o  -o cmTC_6f6fd 
+make[1]: Leaving directory '/home/student/Projekt2/build/CMakeFiles/CMakeTmp'
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /home/student/Projekt2/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d74db/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d74db.dir/build.make CMakeFiles/cmTC_d74db.dir/build
+make[1]: Entering directory '/home/student/Projekt2/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d74db.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/x86_64-linux-gnu-g++-8     -o CMakeFiles/cmTC_d74db.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_d74db
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d74db.dir/link.txt --verbose=1
+/usr/bin/x86_64-linux-gnu-g++-8       CMakeFiles/cmTC_d74db.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_d74db 
+make[1]: Leaving directory '/home/student/Projekt2/build/CMakeFiles/CMakeTmp'
+
+
